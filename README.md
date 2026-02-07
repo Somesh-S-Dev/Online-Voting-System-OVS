@@ -1,4 +1,4 @@
-# online-voting-system
+# Online-Voting-System **(OVS)**
 An online voting system is needed to simplify the process of conducting elections and enable eligible voters to cast their votes conveniently through an online platform. The system should ensure the integrity, security, and privacy of the voting process, while also providing an efficient and user-friendly experience for voters,Developed using netbeans.
 
 UDP Communication: The server uses a DatagramSocket to establish a connectionless communication channel via UDP. UDP is a lightweight, connectionless protocol suitable for scenarios where low overhead and quick data transmission are crucial.
